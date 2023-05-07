@@ -5,8 +5,7 @@ The Notes app is a mobile app built with React Native CLI and TypeScript that al
 
 ## Features
 * Create new notes with a title and description:</br>
-![image](https://user-images.githubusercontent.com/13279722/236696839-68e1d2cc-097d-4e90-9d5e-e9bb36d00aa9.png)
-</br>
+![image](https://user-images.githubusercontent.com/13279722/236697697-edaa47ef-9ddb-4d14-bea3-4d09905776d7.png)
 
 * Edit existing notes: Click on the note from the list and the note will be loaded to "edit."
 * Delete notes:  Click on the note from the list and the note will be loaded to "delete."
